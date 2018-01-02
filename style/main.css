@@ -44,7 +44,7 @@ body {
 #movielist img:hover{
 
   width: 200px;
-  margin: 5px;
+  margin: 10px;
   -webkit-filter: none;
   filter:none;
 }
